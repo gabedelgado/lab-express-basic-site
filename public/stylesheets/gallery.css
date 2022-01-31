@@ -1,0 +1,14 @@
+.photogallery {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.photogallery img {
+    height: 300px;
+}
+
+h1 {
+    text-align: center;
+}
